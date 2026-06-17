@@ -1,0 +1,6 @@
+{
+  "name": "AIPostmaster",
+  "description": "An elite social media manager and SEO tool utilizing Gemini AI to analyze MP4 videos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

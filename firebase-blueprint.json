@@ -1,0 +1,17 @@
+{
+  "collections": {
+    "analyses": {
+      "fields": {
+        "userId": "string",
+        "title": "string",
+        "description": "string",
+        "hashtags": "array",
+        "createdAt": "timestamp",
+        "tone": "string",
+        "context": "string",
+        "fileName": "string",
+        "fileSize": "number"
+      }
+    }
+  }
+}
